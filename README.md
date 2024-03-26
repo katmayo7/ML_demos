@@ -1,28 +1,29 @@
 # ML_practice
 Implementations of machine learning algorithms for practice
 
-Regression.ipynb
---linear regression
---logistic regression
+#### Regression.ipynb ####
+* linear regression
+* logistic regression
 
-naiveBayes.ipynb
---naive Bayes
+#### naiveBayes.ipynb ####
+* naive Bayes
+
+#### SVM.ipynb ####
+* support vector machine
 
 To implement:
---naive Bayes
---SVM
---kNN
+* kNN
 
---decision trees
---random forests
+* decision trees
+* random forests
 
---XGBoost
+* XGBoost
 
---kMeans
---DBScan
+* kMeans
+* DBScan
 
---neural networks
-----CNN
-----RNN
-----LSTM
-----transformer
+* neural networks
+	* CNN
+	* RNN
+	* LSTM
+	* transformer
