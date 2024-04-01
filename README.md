@@ -1,29 +1,24 @@
 # ML_practice
-Implementations of machine learning algorithms for practice
 
-#### Regression.ipynb ####
-* linear regression
-* logistic regression
+Demonstrations of implementing an assorted collection of machine learning algorithms, with basic overviews/explanations of the algorithms. Emphasis is on familiarity with functions, so currently only implemented on [built-in data sets](https://scikit-learn.org/stable/datasets/real_world.html).
 
-#### naiveBayes.ipynb ####
-* naive Bayes
+Algorithms written in [Jupyter Notebooks](https://jupyter.org/), implemented with [scikit-learn](https://scikit-learn.org/stable/).
 
-#### SVM.ipynb ####
-* support vector machine
+### Implmented: ###
 
-To implement:
-* kNN
+* Regression.ipynb: linear and logistic regression
+* naiveBayes.ipynb: Naive Bayes
+* SVN.ipynb: support vector machine
 
-* decision trees
-* random forests
+### To implement: ###
+
+* kNN.ipynb: k-nearest neighbors
+* Trees.ipynb: decision tree and random forest
+* Clustering.ipynb: kMeans and DBScan
 
 * XGBoost
-
-* kMeans
-* DBScan
-
 * neural networks
 	* CNN
 	* RNN
-	* LSTM
-	* transformer
+	* RNN with LSTM
+	* transformers
