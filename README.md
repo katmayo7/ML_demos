@@ -9,10 +9,10 @@ Algorithms written in [Jupyter Notebooks](https://jupyter.org/), implemented wit
 * Regression.ipynb: linear and logistic regression
 * naiveBayes.ipynb: Naive Bayes
 * SVN.ipynb: support vector machine
+* kNN.ipynb: k-nearest neighbors
 
 ### To implement: ###
 
-* kNN.ipynb: k-nearest neighbors
 * Trees.ipynb: decision tree and random forest
 * Clustering.ipynb: kMeans and DBScan
 
