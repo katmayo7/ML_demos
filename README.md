@@ -11,14 +11,21 @@ Algorithms written in [Jupyter Notebooks](https://jupyter.org/), implemented wit
 * SVN.ipynb: support vector machine
 * kNN.ipynb: k-nearest neighbors
 * Trees.ipynb: decision tree and random forest
+* Clustering.ipynb: k-Means and DBScan
 
 ### To implement: ###
 
-* Clustering.ipynb: kMeans and DBScan
-
 * XGBoost
-* neural networks
+* Basic deep learning
+	* DNN
 	* CNN
-	* RNN
 	* RNN with LSTM
-	* transformers
+	* Transformers
+* Specific deep learning
+	* LeNet
+	* AlexNet
+	* VGG
+	* ResNet
+* Extra deep learning to consider demonstrating
+	* GAN
+	* Autoencoder
