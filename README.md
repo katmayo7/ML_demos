@@ -4,18 +4,24 @@ Demonstrations of implementing an assorted collection of machine learning algori
 
 Algorithms written in [Jupyter Notebooks](https://jupyter.org/), implemented with [scikit-learn](https://scikit-learn.org/stable/).
 
-### Implmented: ###
 
+### Complete List of Implmented Algorithms: ###
+
+ML_demos/basic:
 * Regression.ipynb: linear and logistic regression
 * naiveBayes.ipynb: Naive Bayes
 * SVN.ipynb: support vector machine
 * kNN.ipynb: k-nearest neighbors
 * Trees.ipynb: decision tree and random forest
 * Clustering.ipynb: k-Means and DBScan
+* XGBoost.ipynb: xgboost
+
+ML_demos/deep_learning:
+* DNN.ipynb:
+
+ML_demos/reinforcement_learning:
 
 ### To implement: ###
-
-* XGBoost
 * Basic deep learning
 	* DNN
 	* CNN
