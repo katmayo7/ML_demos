@@ -4,18 +4,25 @@ Demonstrations of implementing an assorted collection of machine learning algori
 
 Algorithms written in [Jupyter Notebooks](https://jupyter.org/), implemented with [scikit-learn](https://scikit-learn.org/stable/).
 
-### Implmented: ###
 
+### Complete List of Implmented Algorithms: ###
+
+basic:
 * Regression.ipynb: linear and logistic regression
 * naiveBayes.ipynb: Naive Bayes
 * SVN.ipynb: support vector machine
 * kNN.ipynb: k-nearest neighbors
 * Trees.ipynb: decision tree and random forest
 * Clustering.ipynb: k-Means and DBScan
+* XGBoost.ipynb: xgboost
+
+deep_learning:
+*
+
+reinforcement_learning:
+*
 
 ### To implement: ###
-
-* XGBoost
 * Basic deep learning
 	* DNN
 	* CNN
@@ -29,3 +36,15 @@ Algorithms written in [Jupyter Notebooks](https://jupyter.org/), implemented wit
 * Extra deep learning to consider demonstrating
 	* GAN
 	* Autoencoder
+
+
+<! --
+### Built-In Data Set Accuracy Tracker ###
+Classification
+* Iris: knn [1], naive Bayes [0.96], SVM [0.87], SVM (RBF) [1]
+* Diabetes: decision tree [0.83]
+* Wine: random forest [0.98]
+
+Regression:
+* Breast Cancer: logistic regression: 0.68, SVM [0.95]
+-->
