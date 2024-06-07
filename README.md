@@ -7,7 +7,7 @@ Algorithms written in [Jupyter Notebooks](https://jupyter.org/), implemented wit
 
 ### Complete List of Implmented Algorithms: ###
 
-basic:
+ML_demos/basic:
 * Regression.ipynb: linear and logistic regression
 * naiveBayes.ipynb: Naive Bayes
 * SVN.ipynb: support vector machine
@@ -16,11 +16,10 @@ basic:
 * Clustering.ipynb: k-Means and DBScan
 * XGBoost.ipynb: xgboost
 
-deep_learning:
-*
+ML_demos/deep_learning:
+* DNN.ipynb:
 
-reinforcement_learning:
-*
+ML_demos/reinforcement_learning:
 
 ### To implement: ###
 * Basic deep learning
@@ -36,15 +35,3 @@ reinforcement_learning:
 * Extra deep learning to consider demonstrating
 	* GAN
 	* Autoencoder
-
-
-<! --
-### Built-In Data Set Accuracy Tracker ###
-Classification
-* Iris: knn [1], naive Bayes [0.96], SVM [0.87], SVM (RBF) [1]
-* Diabetes: decision tree [0.83]
-* Wine: random forest [0.98]
-
-Regression:
-* Breast Cancer: logistic regression: 0.68, SVM [0.95]
--->
