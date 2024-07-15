@@ -15,6 +15,7 @@ ML_demos/basic:
 * Trees.ipynb: decision tree and random forest
 * Clustering.ipynb: k-Means and DBScan
 * XGBoost.ipynb: xgboost
+* fromScratch.ipynb: various ML evaluation metrics, sampling, kNN, and feed-forward neural network from scratch (coding interview practice exercise)
 
 ML_demos/deep_learning:
 * DNN.ipynb:
