@@ -2,7 +2,7 @@
 
 Demonstrations of implementing an assorted collection of machine learning algorithms, with basic overviews/explanations of the algorithms. Emphasis is on familiarity with functions, so currently only implemented on [built-in data sets](https://scikit-learn.org/stable/datasets/real_world.html).
 
-Algorithms written in [Jupyter Notebooks](https://jupyter.org/), implemented with [scikit-learn](https://scikit-learn.org/stable/).
+Algorithms written in [Jupyter Notebooks](https://jupyter.org/), implemented with [scikit-learn](https://scikit-learn.org/stable/) and [PyTorch](https://pytorch.org/).
 
 
 ### Complete List of Implmented Algorithms: ###
@@ -18,13 +18,12 @@ ML_demos/basic:
 * fromScratch.ipynb: various ML evaluation metrics, sampling, kNN, and feed-forward neural network from scratch (coding interview practice exercise)
 
 ML_demos/deep_learning:
-* DNN.ipynb:
+* DNN.ipynb: simple multilayer perceptron implementation, implement a basic neural network using PyTorch
 
 ML_demos/reinforcement_learning:
 
 ### To implement: ###
 * Basic deep learning
-	* DNN
 	* CNN
 	* RNN with LSTM
 	* Transformers
