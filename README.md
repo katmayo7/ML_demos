@@ -10,7 +10,7 @@ Algorithms written in [Jupyter Notebooks](https://jupyter.org/), implemented wit
 ML_demos/basic:
 * Regression.ipynb: linear and logistic regression
 * naiveBayes.ipynb: Naive Bayes
-* SVN.ipynb: support vector machine
+* SVM.ipynb: support vector machine
 * kNN.ipynb: k-nearest neighbors
 * Trees.ipynb: decision tree and random forest
 * Clustering.ipynb: k-Means and DBScan
@@ -18,20 +18,15 @@ ML_demos/basic:
 * fromScratch.ipynb: various ML evaluation metrics, sampling, kNN, and feed-forward neural network from scratch (coding interview practice exercise)
 
 ML_demos/deep_learning:
-* DNN.ipynb: simple multilayer perceptron implementation, implement a basic neural network using PyTorch
+* DNN.ipynb: simple multilayer perceptron implementation, implement a basic neural network
+* CNN.ipynb: implements a basic CNN
+* CNN_architectures.ipynb: implements some known CNN achitectures including LeNet, AlexNet, VGG, and ResNet
 
 ML_demos/reinforcement_learning:
 
 ### To implement: ###
-* Basic deep learning
-	* CNN
-	* RNN with LSTM
-	* Transformers
-* Specific deep learning
-	* LeNet
-	* AlexNet
-	* VGG
-	* ResNet
-* Extra deep learning to consider demonstrating
-	* GAN
-	* Autoencoder
+* General deep learning
+    * RNN with LSTM
+    * Transformer
+    * GAN
+    * Autoencoder
