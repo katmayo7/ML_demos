@@ -1,11 +1,10 @@
-# ML_practice
+# ML Demos #
 
-Demonstrations of implementing an assorted collection of machine learning algorithms, with basic overviews/explanations of the algorithms. Emphasis is on familiarity with functions, so currently only implemented on [built-in data sets](https://scikit-learn.org/stable/datasets/real_world.html).
+A collection of implementions for an assortment of machine learning and deep learning algorithms with basic overviews/explanations written using [Jupyter notebooks](https://jupyter.org/). A list of implemented algorithms can be found below.
 
-Algorithms written in [Jupyter Notebooks](https://jupyter.org/), implemented with [scikit-learn](https://scikit-learn.org/stable/) and [PyTorch](https://pytorch.org/).
+The purposes of these implementations is to emphasize familiarity with the built-in functions available in the [scikit-learn](https://scikit-learn.org/stable/) and [PyTorch](https://pytorch.org/) libraries, so they only make use of the scikit-learn [built-in](https://scikit-learn.org/stable/datasets.html).
 
-
-### Complete List of Implmented Algorithms: ###
+### List of Implmented Algorithms: ###
 
 ML_demos/basic:
 * Regression.ipynb: linear and logistic regression
@@ -21,12 +20,13 @@ ML_demos/deep_learning:
 * DNN.ipynb: simple multilayer perceptron implementation, implement a basic neural network
 * CNN.ipynb: implements a basic CNN
 * CNN_architectures.ipynb: implements some known CNN achitectures including LeNet, AlexNet, VGG, and ResNet
+* RNN.ipynb: implements an RNN with LSTM for time series data
 
 ML_demos/reinforcement_learning:
 
 ### To implement: ###
 * General deep learning
-    * RNN with LSTM
     * Transformer
     * GAN
     * Autoencoder
+* RL algorithms
